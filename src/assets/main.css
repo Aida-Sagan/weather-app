@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(202,223,67);
+    background: radial-gradient(circle, rgba(202,223,67,1) 1%, rgba(202,223,67,1) 2%, rgba(148,187,233,1) 100%);
+    display: flex; /*технология флекс бокс*/
+    justify-content: center;
+    align-items: center;
+}
